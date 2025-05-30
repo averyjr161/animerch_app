@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193194465066",
+    "project_id": "animerchapp",
+    "storage_bucket": "animerchapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193194465066:android:c909bb3db419ec861ab053",
+        "android_client_info": {
+          "package_name": "com.example.animerch_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQniB9ywKJZm6aNZOLVDNQcDnkdfv2FCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
